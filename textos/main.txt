@@ -1,0 +1,4 @@
+ MAIN MAIN MAIN 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Page content goes here; To use this template you simply have to build the
+html for it from the graphic.

@@ -1,0 +1,9 @@
+SUPORT SOPORTE SUPORT SOPORTE SUPORT SOPORTE SUPORT SOPORTE SUPORT SOPORTE 
+///////////////////////////////////////////////////////////////////////////
+Page content goes here; To use this template you simply have to build the
+html for it from the graphic. First export all your buttons, backgrounds and
+other images. You must decide whether certain elements will be images
+or html generated.
+
+First build one template page and make sure it is exactly right before you
+build the rest of the site.
